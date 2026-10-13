@@ -1,12 +1,5 @@
-# Chuyang Leaf · yechya
+# 叶初阳 · Chuyang Ye
 
-Research interest: **Embodied AI / 具身智能**.
+南京大学电子科学与工程学院本科在读，专业为集成电路设计与集成系统（英才班）。2024 年入学，预计 2028 年毕业。
 
-## Engineering tools
-
-- **[tmux-butler](https://github.com/yechya/tmux-butler)** — Python tools for coordinating coding agents in tmux: SQLite task tracking, Git worktrees, terminal messaging, and local status checks.
-- **[PowerShell Engineering Skill](https://github.com/yechya/powershell-engineering-skill)** — Task-specific PowerShell guidance, an environment reporter, and a project validator, with PowerShell 7 CI on Windows, Linux, and macOS.
-
-## Open-source contribution
-
-- **[Nanping: professional-course page support](https://github.com/549w/nanping/pull/1)** — Contributed a browser-extension fix for extracting course information from a different page layout and avoiding hidden-table matches. Merged into the upstream project.
+研究兴趣：具身智能（Embodied AI）。
